@@ -1,0 +1,51 @@
+{
+    "httpStatus":"OK",
+    "httpStatusCode":200,
+    "success":true,
+    "message":"Services fetched successfully.",
+    "apiName":"Get all services.",
+    "data":{
+       "services":[
+          {
+             "name":"In-depth Horoscope",
+             "productCode":"HS",
+             "imageUrl":"horoscope.webp",
+             "description":"In-depth Horoscope will give you detailed life prediction reports and remedieson everything going to happen in 25 years of your life.",
+             "availableLanguages":[
+                
+             ],
+             "indepthPoints":[
+                
+             ],
+             "price":"999",
+             "offerPrice":"51"
+          },{
+            "name":"Making Report",
+            "productCode":"HS",
+            "imageUrl":"horoscope.webp",
+            "description":"In-depth Horoscope will give you detailed life prediction reports and remedieson everything going to happen in 25 years of your life.",
+            "availableLanguages":[
+               
+            ],
+            "indepthPoints":[
+               
+            ],
+            "price":"51",
+            "offerPrice":"51"
+         },{
+            "name":"Monthly Horoscope",
+            "productCode":"HS",
+            "imageUrl":"horoscope.webp",
+            "description":"In-depth Horoscope will give you detailed life prediction reports and remedieson everything going to happen in 25 years of your life.",
+            "availableLanguages":[
+               
+            ],
+            "indepthPoints":[
+               
+            ],
+            "price":"350",
+            "offerPrice":"51"
+         }
+       ]
+    }
+ }
