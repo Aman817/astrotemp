@@ -3,7 +3,7 @@
     "urlSlug":"anshika-saxena",
     "namePrefix":null,
     "firstName":"Acharya Arvind ",
-    "lastName":"Mishra",
+    "lastName":"Shukla",
     "aboutMe":"Hello I am here",
     "profliePicUrl":null,
     "experience":15.0,
@@ -12,7 +12,7 @@
     ],
     "minimumCallDuration":5,
     "minimumCallDurationCharges":50.0,
-    "additionalPerMinuteCharges":30.0,
+    "additionalPerMinuteCharges":100.0,
     "isAvailable":true,
     "rating":null,
     "skills":[
@@ -21,7 +21,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/ArvindShukla_01.jpg",
           "id":92
        },
        "medium":{
@@ -48,7 +48,7 @@
     "id":32,
     "urlSlug":"anshika-saxena",
     "namePrefix":null,
-    "firstName":"Ashwani ",
+    "firstName":"Ashwani",
     "lastName":"Mangal",
     "aboutMe":"Hello I am here",
     "profliePicUrl":null,
@@ -67,7 +67,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/AshwaniSehgal.png",
           "id":92
        },
        "medium":{
@@ -113,7 +113,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/Sripati-Tripathi_880X918.jpg",
           "id":92
        },
        "medium":{
@@ -159,7 +159,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/BhawnaSharma_07.jpg",
           "id":92
        },
        "medium":{
@@ -189,7 +189,7 @@
     "lastName":"Mishra",
     "aboutMe":"Hello I am here",
     "profliePicUrl":null,
-    "experience": 16.0,
+    "experience": 7.0,
     "languages":[
        "Hindi","English"
     ],
@@ -204,7 +204,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/880X918-Sundram-ji.jpg",
           "id":92
        },
        "medium":{
@@ -231,7 +231,7 @@
     "id":35,
     "urlSlug":"anshika-saxena",
     "namePrefix":null,
-    "firstName":"Lakshay ",
+    "firstName":"Lakshay",
     "lastName":"Khurana",
     "aboutMe":"Hello I am here",
     "profliePicUrl":null,
@@ -250,7 +250,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/880X918-lakshya-pic.jpg",
           "id":92
        },
        "medium":{
@@ -295,7 +295,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/DhananjayRai_1744.jpg",
           "id":92
        },
        "medium":{
@@ -341,7 +341,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/2.1.jpg",
           "id":92
        },
        "medium":{
@@ -386,7 +386,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/880X918-Rajesh%20Sharma.jpg",
           "id":92
        },
        "medium":{
@@ -431,7 +431,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/Geeta_koacher--880x918.jpg",
           "id":92
        },
        "medium":{
@@ -476,7 +476,7 @@
     "isOnCall":false,
     "images":{
        "large":{
-          "imageUrl":"",
+          "imageUrl":"https://github.com/Aman817/astrotemp/blob/main/images/vishal-arora_880X918.jpg",
           "id":92
        },
        "medium":{
